@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -26,4 +29,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
