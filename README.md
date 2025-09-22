@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0344-reverse-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0032-longest-valid-parentheses) |
 | [0682-baseball-game](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
