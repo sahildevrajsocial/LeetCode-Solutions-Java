@@ -132,5 +132,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0838-design-linked-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0908-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
