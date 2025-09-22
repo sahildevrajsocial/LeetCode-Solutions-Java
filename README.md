@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1252-break-a-palindrome](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1252-break-a-palindrome) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 ## Dynamic Programming
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
