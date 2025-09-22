@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2591-frog-jump-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2591-frog-jump-ii) |
@@ -104,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0258-add-digits) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1552-build-an-array-with-stack-operations) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 ## Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
