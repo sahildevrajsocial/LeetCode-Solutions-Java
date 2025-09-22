@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
