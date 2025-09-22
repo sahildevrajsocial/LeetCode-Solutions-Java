@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0066-plus-one) |
 | [0164-maximum-gap](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0231-power-of-two) |
