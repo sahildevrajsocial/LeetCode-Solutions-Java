@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1252-break-a-palindrome](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1252-break-a-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1894-merge-strings-alternately) |
