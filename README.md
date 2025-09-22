@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0777-toeplitz-matrix) |
@@ -106,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1552-build-an-array-with-stack-operations) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1552-build-an-array-with-stack-operations) |
