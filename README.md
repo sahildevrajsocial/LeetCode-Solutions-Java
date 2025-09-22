@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0022-generate-parentheses) |
+| [1252-break-a-palindrome](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1252-break-a-palindrome) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1252-break-a-palindrome](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1252-break-a-palindrome) |
 | [2591-frog-jump-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2591-frog-jump-ii) |
 ## Simulation
 |  |
