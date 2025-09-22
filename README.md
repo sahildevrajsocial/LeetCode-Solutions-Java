@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0160-intersection-of-two-linked-lists) |
