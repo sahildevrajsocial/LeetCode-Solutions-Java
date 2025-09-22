@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0283-move-zeroes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0777-toeplitz-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
