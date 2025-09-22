@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
@@ -130,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
