@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -159,11 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
