@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0792-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
