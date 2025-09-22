@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0066-plus-one) |
 | [0164-maximum-gap](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0055-jump-game) |
 | [1252-break-a-palindrome](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1252-break-a-palindrome) |
 | [2591-frog-jump-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2591-frog-jump-ii) |
 ## Simulation
