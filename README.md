@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2083-three-divisors](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2083-three-divisors) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,11 +191,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
+| [2083-three-divisors](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2083-three-divisors) |
 ## Bucket Sort
 |  |
 | ------- |
