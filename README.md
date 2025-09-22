@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0142-linked-list-cycle-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0202-happy-number) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0058-length-of-last-word) |
