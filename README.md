@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
