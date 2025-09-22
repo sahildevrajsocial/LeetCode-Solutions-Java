@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0485-max-consecutive-ones) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2591-frog-jump-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2591-frog-jump-ii) |
 ## Hash Table
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
