@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0349-intersection-of-two-arrays) |
