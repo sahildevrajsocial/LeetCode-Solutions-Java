@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0344-reverse-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0908-middle-of-the-linked-list) |
