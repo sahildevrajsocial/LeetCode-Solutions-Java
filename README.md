@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0041-first-missing-positive) |
 | [0164-maximum-gap](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
