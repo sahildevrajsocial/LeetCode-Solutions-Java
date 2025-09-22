@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0204-count-primes) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sahildevrajsocial/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
